@@ -1,0 +1,4 @@
+LIBRARY "CallBackTenTimes.dll"
+
+EXPORTS
+	CallBackTenTimes		PRIVATE

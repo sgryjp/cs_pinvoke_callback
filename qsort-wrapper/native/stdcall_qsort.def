@@ -1,0 +1,4 @@
+LIBRARY "stdcall_qsort.dll"
+
+EXPORTS
+	stdcall_qsort		PRIVATE
